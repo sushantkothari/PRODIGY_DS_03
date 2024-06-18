@@ -2,7 +2,7 @@
 
 ## Bank Marketing Campaign Analysis
 
-This repository contains a Python script (`task3.py`) that performs exploratory data analysis (EDA) and builds a machine learning model for predicting whether a customer will subscribe to a term deposit based on information from a bank marketing campaign.
+This repository contains a Python script (`Task 3.ipynb`) that performs exploratory data analysis (EDA) and builds a machine learning model for predicting whether a customer will subscribe to a term deposit based on information from a bank marketing campaign.
 
 ## Description
 
